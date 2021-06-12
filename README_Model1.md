@@ -1,4 +1,4 @@
-# Algorithm_01
+# Algorithm_01_Model_1
 
 Test carried on for model 1 based of 3 Layers with 1 Convolution layer
 
