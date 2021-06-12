@@ -4,7 +4,7 @@ Test carried on for model 3 based of 7 Layers with 4 Convolution layer
 
 1. Model
  
-<img width="767" alt="Capture d’écran 2021-06-12 à 15 12 44" src="https://user-images.githubusercontent.com/48728092/121767068-13558400-cb91-11eb-97ad-924ffe961711.png">
+<img width="776" alt="Capture d’écran 2021-06-12 à 15 18 23" src="https://user-images.githubusercontent.com/48728092/121767138-75ae8480-cb91-11eb-9cc9-8f2f01f8b855.png">
 
 
 2. Training with training loss
