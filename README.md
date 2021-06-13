@@ -13,6 +13,7 @@ As discussed with leonardkkh@cau.ac.kr by email, my tensorflow version was 2.5 w
 my total of is over 1875 compared to 60000 as the demo video just because of my tensorflow version.
 
 60000 : The number of data
+
 1875  : The number of iteration when batch-size is 32 ( 32 * 1875 = 60000 )
 
 all this created by the tensorflow version difference.
