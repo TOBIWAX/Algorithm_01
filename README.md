@@ -4,6 +4,8 @@ You will find in the different Readme(s) Model1.md Model2.md Model3.md in order 
 
 I have also uploaded the code I used.
 
+For testing purpose in the code file just change the "model = select_model(1)", value to the 1, 2 or 3 depending on the model you want to test.
+
 Side Note :
 
 As discussed with leonardkkh@cau.ac.kr by email, my tensorflow version was 2.5 when I tried everything for the project and I got good result as expected, there is just one tiny thing to note is that for :
